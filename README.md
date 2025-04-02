@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Manasvi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Data Analyst | Problem Solver | Illustrator</h3>
+<p align="center">
+  <a href="linkedin.com/in/manasvi-jindal-03aa6a278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:manasvijindal57@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasvi-0&label=Profile%20views&color=0e75b6&style=flat" alt="manasvi-0" /> </p>
+- 🌱 Learning about **Machine Learning,Frontend,PowerBI**
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Problem solving,Data structures,Power BI,MySQL**
+- 💬 Ask me about **Problem solving,Data structures,MySQL**
 
 - 📫 How to reach me **manasvijindal57@gmail.com**
 
@@ -22,3 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasvi-0&show_icons=true&locale=en" alt="manasvi-0" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasvi-0&" alt="manasvi-0" /></p>
