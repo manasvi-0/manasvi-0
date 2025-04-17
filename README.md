@@ -16,9 +16,9 @@
 </p>
 <h2 align="left">About me </h2>
 
- - 🌱 Learning about  **Machine Learning, Frontend, PowerBI**
+ - 🌱 Learning about  **Machine Learning, Frontend**
 
-- 💬 Ask me about  **Problem solving, Data structures, MySQL**
+- 💬 Ask me about  **Problem solving, Data structures, MySQL, PowerBi**
 
 - 📫 How to reach me  **manasvijindal57@gmail.com**
 <hr></hr>
